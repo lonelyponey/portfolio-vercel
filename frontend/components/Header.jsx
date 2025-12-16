@@ -161,7 +161,7 @@ export default function Header() {
               }}
             >
               <a
-                href="https://github.com/lightsource713"
+                href="https://github.com/lonelyponey"
                 className="flex w-full items-center justify-start gap-2 rounded-lg p-2 px-8 text-white transition-colors hover:bg-white/5"
               >
                 <svg
@@ -185,7 +185,7 @@ export default function Header() {
             onClick={() => router.push("/")}
           >
             <h1 className="text-2xl font-bold">
-              DanielSuzuki<span className="text-primary-500"></span>
+              AkiyamaHaru<span className="text-primary-500"></span>
             </h1>
           </div>
         </div>
